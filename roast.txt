@@ -1,0 +1,1 @@
+My agent flagged its own `ls` as an execution risk, then sat waiting for permission to look inside a folder it already owned.
